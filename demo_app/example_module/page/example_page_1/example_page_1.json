@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2023-07-02 16:31:20.915107",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2023-07-02 16:31:20.915107",
+ "modified_by": "Administrator",
+ "module": "Example Module",
+ "name": "example-page-1",
+ "owner": "Administrator",
+ "page_name": "example-page-1",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Example Page 1"
+}

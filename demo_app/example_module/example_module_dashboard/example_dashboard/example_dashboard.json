@@ -1,0 +1,29 @@
+{
+ "cards": [
+  {
+   "card": "Card One"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Chart One",
+   "width": "Full"
+  },
+  {
+   "chart": "Example Chart One",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-07-02 16:18:20.629843",
+ "dashboard_name": "Example Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2023-07-02 17:16:32.267759",
+ "modified_by": "Administrator",
+ "module": "Example Module",
+ "name": "Example Dashboard",
+ "owner": "Administrator"
+}
